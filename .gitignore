@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+# Ignore Gradle project-specific cache directory
+.gradle
+.gitattributes
+.settings
+# Ignore Gradle build output directory
+build
+**/.classpath
+=======
+# Ignore Gradle project-specific cache directory
+.gradle
+.gitattributes
+.settings
+# Ignore Gradle build output directory
+build
+**/.classpath
+>>>>>>> 2020.12.18 김용성
+**/.project
+**/bin
+/gradlew*
